@@ -1,0 +1,2 @@
+1. Variables num1 and num2 are strings. Thus, the code num1 + num2 joins the strings together instead of adding the numerical values.
+2. The fix is to convert values num1 and num2 from strings into numbers so when they are added they become summed.
