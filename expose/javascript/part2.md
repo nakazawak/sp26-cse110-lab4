@@ -54,9 +54,13 @@ f. true since Boolean(2) is true, so it’s true === true
 
 === checks if both the value and the type match, so it’s stricter  
 
+16. In part2-question16.js
+
 17. Result: [2, 4, 6]
 
 modifyArray([1, 2, 3], doSomething) sends in the array and the function doSomething. The loop goes through each number in the array and passes it into the callback. The callback (doSomething) doubles each number, and those results get pushed into newArr. By the end, newArr becomes [2, 4, 6], and that’s what gets returned.
+
+18. in part2-question18.js
 
 19. The output is shown below
 ```
